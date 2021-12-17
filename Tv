@@ -1,0 +1,43 @@
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="No group" tvg-id="" tvg-name="", EKATTOR TV
+
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="No group" tvg-id="" tvg-name="", JALSHA MOVIES
+
+http://172.32.1.88:1935/tvprogram/JALSHA-MOVIES/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="No group" tvg-id="" tvg-name="", SONY HD
+
+http://172.32.1.88:1935/tvprogram/SONY-HD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="No group" tvg-id="" tvg-name="", ZEE CINEMA
+
+http://172.32.1.88:1935/tvprogram/ZEE-CINEMA/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="No group" tvg-id="" tvg-name="", SONY SIX HD
+
+http://172.32.1.88:1935/tvprogram/SONY-SIXHD/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="nologo.png" group-title="No group" tvg-id="" tvg-name="", SONY ESPN
+
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", ghu
+
+http://tv.iplex.live:7444/live/1/1/921.m3u8
+
+#EXTINF:-1 tvg-logo="http://193.70.86.92/chlogo/logo/tv/ss/star_jalsha.png" group-title="No group" tvg-id="" tvg-name="", star jalsha
+
+http://tv.iplex.live:7444/live/1/1/923.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", ghko
+
+http://tv.iplex.live:7444/live/1/1/631.m3u8
+
+#EXTINF:-1 tvg-logo="noimage.png" group-title="No group" tvg-id="" tvg-name="", rty
+
+http://tv.iplex.live:7444/live/1/1/628.m3u8

@@ -85,9 +85,17 @@ http://tv.iplex.live:7444/live/1/1/637.m3u8
 http://tv.iplex.live:7444/live/1/1/641.m3u8
 #EXTINF:-1,MY TV
 http://tv.iplex.live:7444/live/1/1/644.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,9XM MUSIC
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,B4U MUSIC
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1,MUSIC MASTI
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
+#EXTINF:-1,SANGEET BANGLA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,WILLOW TV HD
+http://208.86.19.21/731.stream/index.m3u8
+#EXTINF:-1,PTV SPORTS
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1,A SPORTS HD PAK
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8

@@ -67,6 +67,25 @@ http://tv.iplex.live:7444/live/1/1/931.m3u8
 http://tv.iplex.live:7444/live/1/1/928.m3u8
 #EXTINF:-1,DISNEY
 http://tv.iplex.live:7444/live/1/1/934.m3u8
+#EXTINF:-1,DEEPTO TV
+http://tv.iplex.live:7444/live/1/1/943.m3u8
+#EXTINF:-1,MASRANGA TV
+http://tv.iplex.live:7444/live/1/1/627.m3u8
+#EXTINF:-1,NAGORIK TV
+http://tv.iplex.live:7444/live/1/1/629.m3u8
+#EXTINF:-1,CHANNEL 9
+http://tv.iplex.live:7444/live/1/1/633.m3u8
+#EXTINF:-1,NTV
+http://tv.iplex.live:7444/live/1/1/635.m3u8
+#EXTINF:-1,ATN BANGLA
+http://tv.iplex.live:7444/live/1/1/636.m3u8
+#EXTINF:-1,RTV
+http://tv.iplex.live:7444/live/1/1/637.m3u8
+#EXTINF:-1,EKUSHEY TV
+http://tv.iplex.live:7444/live/1/1/641.m3u8
+#EXTINF:-1,MY TV
+http://tv.iplex.live:7444/live/1/1/644.m3u8
+#EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,

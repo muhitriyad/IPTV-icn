@@ -20,7 +20,7 @@ http://tv.iplex.live:7444/live/1/1/692.m3u8
 #EXTINF:-1,GAZI TV
 http://tv.iplex.live:7444/live/1/1/944.m3u8
 #EXTINF:-1,T SPORTS HD
-http://tv.iplex.live:7444/live/1/1/942.m3u8
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1,SONY SIX HD
 http://tv.iplex.live:7444/live/1/1/915.m3u8
 #EXTINF:-1,TEN 1 HD

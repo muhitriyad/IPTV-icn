@@ -49,15 +49,24 @@ http://tv.iplex.live:7444/live/1/1/929.m3u8
 http://tv.iplex.live:7444/live/1/1/930.m3u8
 #EXTINF:-1,STAR WORLD HD
 http://tv.iplex.live:7444/live/1/1/914.m3u8
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
-#EXTINF:-1,
+#EXTINF:-1,COLORS HD
+http://tv.iplex.live:7444/live/1/1/920.m3u8
+#EXTINF:-1,ZEE TV HD
+http://tv.iplex.live:7444/live/1/1/921.m3u8
+#EXTINF:-1,& TV HD
+http://tv.iplex.live:7444/live/1/1/941.m3u8
+#EXTINF:-1,STAR PLUS HD
+http://tv.iplex.live:7444/live/1/1/936.m3u8
+#EXTINF:-1,COLORS BANGLA HD
+http://tv.iplex.live:7444/live/1/1/939.m3u8
+#EXTINF:-1,STAR BHARAT
+http://tv.iplex.live:7444/live/1/1/927.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://tv.iplex.live:7444/live/1/1/931.m3u8
+#EXTINF:-1,NICK HD
+http://tv.iplex.live:7444/live/1/1/928.m3u8
+#EXTINF:-1,DISNEY
+http://tv.iplex.live:7444/live/1/1/934.m3u8
 #EXTINF:-1,
 #EXTINF:-1,
 #EXTINF:-1,

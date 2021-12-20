@@ -9,6 +9,10 @@ http://tv.iplex.live:7444/live/1/1/912.m3u8
 http://tv.iplex.live:7444/live/1/1/918.m3u8
 #EXTINF:-1,71 TV
 http://tv.iplex.live:7444/live/1/1/628.m3u8
+#EXTINF:-1,Independent tv
+http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+#EXTINF:-1,Channel 24
+http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
 #EXTINF:-1,CHANNEL EYE
 http://tv.iplex.live:7444/live/1/1/630.m3u8
 #EXTINF:-1,JAMUNA TV
@@ -39,6 +43,10 @@ http://tv.iplex.live:7444/live/1/1/925.m3u8
 http://tv.iplex.live:7444/live/1/1/922.m3u8
 #EXTINF:-1,SONY MAX HD
 http://tv.iplex.live:7444/live/1/1/923.m3u8
+#EXTINF:-1,Star gold select one
+http://208.86.19.21:80/709.stream/index.m3u8
+#EXTINF:-1,Colors Cineplex hd
+http://str24.l9574.com/735.stream/index.m3u8
 #EXTINF:-1,SONY TV
 http://tv.iplex.live:7444/live/1/1/926.m3u8
 #EXTINF:-1,UTV MOVIES
@@ -91,6 +99,10 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_u
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1,MUSIC MASTI
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
+#EXTINF:-1,Music India
+http://208.86.19.21/733.stream/index.m3u8
+#EXTINF:-1,Hungama music
+https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 #EXTINF:-1,SANGEET BANGLA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,WILLOW TV HD

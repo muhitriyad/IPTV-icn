@@ -1,104 +1,112 @@
 #EXTM3U
 #EXTINF:-1,STAR JALSHA HD
-http://tv.iplex.live:7444/live/1/1/938.m3u8
+http://tv.iplex.live:7444/live/1/1/1285.m3u8
 #EXTINF:-1,ZEE BANGLA HD
-http://tv.iplex.live:7444/live/1/1/937.m3u8
+http://tv.iplex.live:7444/live/1/1/1284.m3u8
 #EXTINF:-1,SONY 8
-http://tv.iplex.live:7444/live/1/1/912.m3u8
+http://tv.iplex.live:7444/live/1/1/1264.m3u8
 #EXTINF:-1,JALSHA MOVIES HD
-http://tv.iplex.live:7444/live/1/1/918.m3u8
-#EXTINF:-1,71 TV
-http://tv.iplex.live:7444/live/1/1/628.m3u8
+http://tv.iplex.live:7444/live/1/1/1267.m3u8
+#EXTINF:-1,71 tv
+http://tv.iplex.live:7444/live/1/1/1225.m3u8
 #EXTINF:-1,Independent tv
-http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+http://tv.iplex.live:7444/live/1/1/1220.m3u8
 #EXTINF:-1,Channel 24
-http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
+http://tv.iplex.live:7444/live/1/1/1223.m3u8
 #EXTINF:-1,CHANNEL EYE
-http://tv.iplex.live:7444/live/1/1/630.m3u8
+http://tv.iplex.live:7444/live/1/1/1222.m3u8
 #EXTINF:-1,JAMUNA TV
-http://tv.iplex.live:7444/live/1/1/639.m3u8
+http://tv.iplex.live:7444/live/1/1/1227.m3u8
 #EXTINF:-1,BANGLA VISION
-http://tv.iplex.live:7444/live/1/1/643.m3u8
+http://tv.iplex.live:7444/live/1/1/1226.m3u8
 #EXTINF:-1,GAAN BANGLA
-http://tv.iplex.live:7444/live/1/1/692.m3u8
+http://tv.iplex.live:7444/live/1/1/1240.m3u8
+#EXTINF:-1,Sangeet BANGLA
+http://tv.iplex.live:7444/live/1/1/1258.m3u8
 #EXTINF:-1,GAZI TV
-http://tv.iplex.live:7444/live/1/1/944.m3u8
+http://tv.iplex.live:7444/live/1/1/1219.m3u8
 #EXTINF:-1,T SPORTS HD
-http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+http://tv.iplex.live:7444/live/1/1/1217.m3u8
 #EXTINF:-1,SONY SIX HD
-http://tv.iplex.live:7444/live/1/1/915.m3u8
+http://tv.iplex.live:7444/live/1/1/1292.m3u8
 #EXTINF:-1,TEN 1 HD
-http://tv.iplex.live:7444/live/1/1/932.m3u8
+http://tv.iplex.live:7444/live/1/1/1290.m3u8
 #EXTINF:-1,TEN 2 HD
-http://tv.iplex.live:7444/live/1/1/919.m3u8
+http://tv.iplex.live:7444/live/1/1/1291.m3u8
 #EXTINF:-1,STAR SPORTS 1 HD
-http://tv.iplex.live:7444/live/1/1/935.m3u8
+http://tv.iplex.live:7444/live/1/1/1289.m3u8
 #EXTINF:-1,STAR SPORTS 2 HD
-http://tv.iplex.live:7444/live/1/1/916.m3u8
+http://tv.iplex.live:7444/live/1/1/1293.m3u8
 #EXTINF:-1,& PICTURES HD
-http://tv.iplex.live:7444/live/1/1/913.m3u8
+http://tv.iplex.live:7444/live/1/1/1265.m3u8
 #EXTINF:-1,ZEE CINEMA HD
-http://tv.iplex.live:7444/live/1/1/925.m3u8
+http://tv.iplex.live:7444/live/1/1/1272.m3u8
 #EXTINF:-1,STAR GOLD HD
-http://tv.iplex.live:7444/live/1/1/922.m3u8
+http://tv.iplex.live:7444/live/1/1/1270.m3u8
 #EXTINF:-1,SONY MAX HD
-http://tv.iplex.live:7444/live/1/1/923.m3u8
+http://tv.iplex.live:7444/live/1/1/1271.m3u8
 #EXTINF:-1,Star gold select one
 http://208.86.19.21:80/709.stream/index.m3u8
 #EXTINF:-1,Colors Cineplex hd
 http://str24.l9574.com/735.stream/index.m3u8
 #EXTINF:-1,SONY TV
-http://tv.iplex.live:7444/live/1/1/926.m3u8
+http://tv.iplex.live:7444/live/1/1/1273.m3u8
 #EXTINF:-1,UTV MOVIES
-http://tv.iplex.live:7444/live/1/1/933.m3u8
+http://tv.iplex.live:7444/live/1/1/1282.m3u8
 #EXTINF:-1,& FLIX HD
-http://tv.iplex.live:7444/live/1/1/929.m3u8
+http://tv.iplex.live:7444/live/1/1/1275.m3u8
 #EXTINF:-1,STAR MOVIES HD
-http://tv.iplex.live:7444/live/1/1/930.m3u8
+http://tv.iplex.live:7444/live/1/1/1276.m3u8
 #EXTINF:-1,STAR WORLD HD
-http://tv.iplex.live:7444/live/1/1/914.m3u8
+http://tv.iplex.live:7444/live/1/1/1266.m3u8
 #EXTINF:-1,COLORS HD
-http://tv.iplex.live:7444/live/1/1/920.m3u8
+http://tv.iplex.live:7444/live/1/1/1268.m3u8
 #EXTINF:-1,ZEE TV HD
-http://tv.iplex.live:7444/live/1/1/921.m3u8
+http://tv.iplex.live:7444/live/1/1/1269.m3u8
 #EXTINF:-1,& TV HD
-http://tv.iplex.live:7444/live/1/1/941.m3u8
+http://tv.iplex.live:7444/live/1/1/1288.m3u8
 #EXTINF:-1,STAR PLUS HD
-http://tv.iplex.live:7444/live/1/1/936.m3u8
+http://tv.iplex.live:7444/live/1/1/1283.m3u8
 #EXTINF:-1,COLORS BANGLA HD
-http://tv.iplex.live:7444/live/1/1/939.m3u8
+http://tv.iplex.live:7444/live/1/1/1286.m3u8
 #EXTINF:-1,STAR BHARAT
-http://tv.iplex.live:7444/live/1/1/927.m3u8
+http://tv.iplex.live:7444/live/1/1/1274.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
-http://tv.iplex.live:7444/live/1/1/931.m3u8
+http://tv.iplex.live:7444/live/1/1/1280.m3u8
 #EXTINF:-1,NICK HD
-http://tv.iplex.live:7444/live/1/1/928.m3u8
+http://tv.iplex.live:7444/live/1/1/1279.m3u8
 #EXTINF:-1,DISNEY
-http://tv.iplex.live:7444/live/1/1/934.m3u8
+http://tv.iplex.live:7444/live/1/1/1281.m3u8
 #EXTINF:-1,DEEPTO TV
-http://tv.iplex.live:7444/live/1/1/943.m3u8
+http://tv.iplex.live:7444/live/1/1/1218.m3u8
 #EXTINF:-1,MASRANGA TV
-http://tv.iplex.live:7444/live/1/1/627.m3u8
+http://tv.iplex.live:7444/live/1/1/1247.m3u8
 #EXTINF:-1,NAGORIK TV
-http://tv.iplex.live:7444/live/1/1/629.m3u8
+http://tv.iplex.live:7444/live/1/1/1243.m3u8
 #EXTINF:-1,CHANNEL 9
-http://tv.iplex.live:7444/live/1/1/633.m3u8
+http://tv.iplex.live:7444/live/1/1/1235.m3u8
 #EXTINF:-1,NTV
-http://tv.iplex.live:7444/live/1/1/635.m3u8
+http://tv.iplex.live:7444/live/1/1/1230.m3u8
 #EXTINF:-1,ATN BANGLA
-http://tv.iplex.live:7444/live/1/1/636.m3u8
+http://tv.iplex.live:7444/live/1/1/1231.m3u8
 #EXTINF:-1,RTV
-http://tv.iplex.live:7444/live/1/1/637.m3u8
+http://tv.iplex.live:7444/live/1/1/1224.m3u8
 #EXTINF:-1,EKUSHEY TV
-http://tv.iplex.live:7444/live/1/1/641.m3u8
-#EXTINF:-1,MY TV
-http://tv.iplex.live:7444/live/1/1/644.m3u8
+http://tv.iplex.live:7444/live/1/1/1229.m3u8
+#EXTINF:-1,MY TV HD
+http://tv.iplex.live:7444/live/1/1/1234.m3u8
+#EXTINF:-1,NEXUX TV
+http://tv.iplex.live:7444/live/1/1/1236.m3u8
+#EXTINF:-1,CINEMA TV
+http://tv.iplex.live:7444/live/1/1/1248.m3u8
+#EXTINF:-1,SA TV
+http://tv.iplex.live:7444/live/1/1/1228.m3u8
 #EXTINF:-1,9XM MUSIC
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,B4U MUSIC
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1,MUSIC MASTI
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/Stream(02)/index.m3u8
+http://tv.iplex.live:7444/live/1/1/1254.m3u8
+#EXTINF:-1,B4U MOVIES
+http://tv.iplex.live:7444/live/1/1/1255.m3u8
 #EXTINF:-1,Music India
 http://208.86.19.21/733.stream/index.m3u8
 #EXTINF:-1,Hungama music
@@ -108,6 +116,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 #EXTINF:-1,WILLOW TV HD
 http://208.86.19.21/731.stream/index.m3u8
 #EXTINF:-1,PTV SPORTS
-http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+http://tv.iplex.live:7444/live/1/1/1250.m3u8
 #EXTINF:-1,A SPORTS HD PAK
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8

@@ -113,6 +113,14 @@ http://208.86.19.21/733.stream/index.m3u8
 https://live.hungama.com/linear/dil-se/playlist_720p/index.m3u8
 #EXTINF:-1,SANGEET BANGLA
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1,MTV BEATS HD
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/153.ts
+#EXTINF:-1,DHOOM MUSIC HD
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/404.ts
+#EXTINF:-1,HBO SIGNATURE FHD
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/1027.ts
+#EXTINF:-1,SONY TV FHD
+http://starshare.live:8080/live/cOrldiscord/6aihXYFqTX/144.ts
 #EXTINF:-1,WILLOW TV HD
 http://208.86.19.21/731.stream/index.m3u8
 #EXTINF:-1,PTV SPORTS

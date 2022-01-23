@@ -98,7 +98,7 @@ http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1,A SPORTS HD PAK
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1,T SPORTS HD icc
-http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 #EXTINF:-1,star jalsha BKUP
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1,Movies jalsha BKUP

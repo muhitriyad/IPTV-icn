@@ -1,112 +1,144 @@
 #EXTM3U
 #EXTINF:-1,STAR JALSHA HD
 http://asdd.cc:7444/live/1/1/2055.m3u8
+#EXTINF:-1,STAR JALSHA (BKUP)
+http://172.32.1.88:1935/tvprogram/STAR-JALSHA/playlist.m3u8
 #EXTINF:-1,ZEE BANGLA HD
-http://tv.iplex.live:7444/live/1/1/1284.m3u8
+http://asdd.cc:7444/live/1/1/2070.m3u8
 #EXTINF:-1,SONY 8
-http://tv.iplex.live:7444/live/1/1/1264.m3u8
-#EXTINF:-1,JALSHA MOVIES HD
-http://tv.iplex.live:7444/live/1/1/1267.m3u8
+http://asdd.cc:7444/live/1/1/2160.m3u8
 #EXTINF:-1,71 tv
-http://tv.iplex.live:7444/live/1/1/1225.m3u8
+http://asdd.cc:7444/live/1/1/2014.m3u8
 #EXTINF:-1,Independent tv
-http://tv.iplex.live:7444/live/1/1/1220.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel 24
-http://tv.iplex.live:7444/live/1/1/1223.m3u8
+http://asdd.cc:7444/live/1/1/1985.m3u8
 #EXTINF:-1,CHANNEL EYE
-http://tv.iplex.live:7444/live/1/1/1222.m3u8
-#EXTINF:-1,JAMUNA TV
-http://tv.iplex.live:7444/live/1/1/1227.m3u8
+http://asdd.cc:7444/live/1/1/2023.m3u8
 #EXTINF:-1,BANGLA VISION
-http://tv.iplex.live:7444/live/1/1/1226.m3u8
-#EXTINF:-1,GAAN BANGLA
-http://tv.iplex.live:7444/live/1/1/1240.m3u8
-#EXTINF:-1,Sangeet BANGLA
-http://tv.iplex.live:7444/live/1/1/1258.m3u8
+http://asdd.cc:7444/live/1/1/1981.m3u8
 #EXTINF:-1,GAZI TV
-http://tv.iplex.live:7444/live/1/1/1219.m3u8
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1,T SPORTS HD
-http://tv.iplex.live:7444/live/1/1/1217.m3u8
+http://asdd.cc:7444/live/1/1/2046.m3u8
+#EXTINF:-1,T SPORTS SUN
+http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
 #EXTINF:-1,SONY SIX HD
-http://tv.iplex.live:7444/live/1/1/1292.m3u8
+http://asdd.cc:7444/live/1/1/2053.m3u8
 #EXTINF:-1,TEN 1 HD
-http://tv.iplex.live:7444/live/1/1/1290.m3u8
+http://asdd.cc:7444/live/1/1/2052.m3u8
 #EXTINF:-1,TEN 2 HD
-http://tv.iplex.live:7444/live/1/1/1291.m3u8
+http://asdd.cc:7444/live/1/1/2059.m3u8
 #EXTINF:-1,STAR SPORTS 1 HD
-http://tv.iplex.live:7444/live/1/1/1289.m3u8
+http://asdd.cc:7444/live/1/1/2064.m3u8
 #EXTINF:-1,STAR SPORTS 2 HD
-http://tv.iplex.live:7444/live/1/1/1293.m3u8
+http://asdd.cc:7444/live/1/1/2066.m3u8
+#EXTINF:-1,STAR SELECT 1 HD
+http://asdd.cc:7444/live/1/1/2068.m3u8
+#EXTINF:-1,STAR SELECT 2 HD
+http://asdd.cc:7444/live/1/1/2069.m3u8
+#EXTINF:-1,SPORTS LIVE
+http://asdd.cc:7444/live/1/1/2143.m3u8
+#EXTINF:-1,STAR SPORTS 1 HD (BKUP)
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1,STAR SPORTS 1 Hindi HD
+http://asdd.cc:7444/live/1/1/2065.m3u8
+#EXTINF:-1,GAZI TV
+http://asdd.cc:7444/live/1/1/2010.m3u8
+#EXTINF:-1,JALSHA MOVIES HD
+http://asdd.cc:7444/live/1/1/2075.m3u8
+#EXTINF:-1,ZEE BANGLA CINEMA HD
+http://asdd.cc:7444/live/1/1/2072.m3u8
+#EXTINF:-1,COLORS BANGLA CINEMA HD
+http://asdd.cc:7444/live/1/1/2161.m3u8
 #EXTINF:-1,& PICTURES HD
-http://tv.iplex.live:7444/live/1/1/1265.m3u8
+http://asdd.cc:7444/live/1/1/2156.m3u8
 #EXTINF:-1,ZEE CINEMA HD
-http://tv.iplex.live:7444/live/1/1/1272.m3u8
+http://asdd.cc:7444/live/1/1/2174.m3u8
 #EXTINF:-1,STAR GOLD HD
-http://tv.iplex.live:7444/live/1/1/1270.m3u8
+http://asdd.cc:7444/live/1/1/2076.m3u8
 #EXTINF:-1,SONY MAX HD
-http://tv.iplex.live:7444/live/1/1/1271.m3u8
+http://asdd.cc:7444/live/1/1/2049.m3u8
 #EXTINF:-1,Star gold select one
-http://208.86.19.21:80/709.stream/index.m3u8
+http://asdd.cc:7444/live/1/1/2077.m3u8
 #EXTINF:-1,Colors Cineplex hd
-http://str24.l9574.com/735.stream/index.m3u8
+http://asdd.cc:7444/live/1/1/2175.m3u8
 #EXTINF:-1,SONY TV
-http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+http://asdd.cc:7444/live/1/1/2162.m3u8
 #EXTINF:-1,UTV MOVIES
-http://tv.iplex.live:7444/live/1/1/1282.m3u8
-#EXTINF:-1,& FLIX HD
-http://tv.iplex.live:7444/live/1/1/1275.m3u8
+http://asdd.cc:7444/live/1/1/2157.m3u8
+#EXTINF:-1,MN+ HD
+http://asdd.cc:7444/live/1/1/2168.m3u8
 #EXTINF:-1,STAR MOVIES HD
-http://tv.iplex.live:7444/live/1/1/1276.m3u8
-#EXTINF:-1,STAR WORLD HD
-http://tv.iplex.live:7444/live/1/1/1266.m3u8
+http://asdd.cc:7444/live/1/1/2167.m3u8
+#EXTINF:-1,MOVIES NOW HD
+http://asdd.cc:7444/live/1/1/2166.m3u8
 #EXTINF:-1,COLORS HD
-http://tv.iplex.live:7444/live/1/1/1268.m3u8
+http://asdd.cc:7444/live/1/1/2074.m3u8
 #EXTINF:-1,ZEE TV HD
-http://tv.iplex.live:7444/live/1/1/1269.m3u8
+http://asdd.cc:7444/live/1/1/2176.m3u8
 #EXTINF:-1,& TV HD
 http://tv.iplex.live:7444/live/1/1/1288.m3u8
 #EXTINF:-1,STAR PLUS HD
-http://tv.iplex.live:7444/live/1/1/1283.m3u8
+http://asdd.cc:7444/live/1/1/2073.m3u8
 #EXTINF:-1,COLORS BANGLA HD
-http://tv.iplex.live:7444/live/1/1/1286.m3u8
-#EXTINF:-1,STAR BHARAT
-http://tv.iplex.live:7444/live/1/1/1274.m3u8
+http://asdd.cc:7444/live/1/1/2071.m3u8
 #EXTINF:-1,CARTOON NETWORK HD
-http://tv.iplex.live:7444/live/1/1/1280.m3u8
+http://asdd.cc:7444/live/1/1/2004.m3u8
 #EXTINF:-1,NICK HD
-http://tv.iplex.live:7444/live/1/1/1279.m3u8
+http://asdd.cc:7444/live/1/1/2179.m3u8
 #EXTINF:-1,DISNEY
 http://tv.iplex.live:7444/live/1/1/1281.m3u8
-#EXTINF:-1,DEEPTO TV
-http://tv.iplex.live:7444/live/1/1/1218.m3u8
-#EXTINF:-1,MASRANGA TV
-http://tv.iplex.live:7444/live/1/1/1247.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://asdd.cc:7444/live/1/1/2079.m3u8
+#EXTINF:-1,NAT GEO HD
+http://asdd.cc:7444/live/1/1/2171.m3u8
+#EXTINF:-1,MAASRANGA TV
+http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
+#EXTINF:-1,EKATTOR TV
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
 #EXTINF:-1,NAGORIK TV
-http://tv.iplex.live:7444/live/1/1/1243.m3u8
+http://172.32.1.88:1935/tvprogram/NAGORIK-TV/playlist.m3u8
+#EXTINF:-1,CHANNEL I
+http://172.32.1.88:1935/tvprogram/CHANNEL-I/playlist.m3u8
+#EXTINF:-1,DEPTO BANGLA
+http://172.32.1.88:1935/tvprogram/DEPTO-BANGLA/playlist.m3u8
+#EXTINF:-1,GAZI TV
+http://172.32.1.88:1935/tvprogram/GAZI-TV/playlist.m3u8
 #EXTINF:-1,CHANNEL 9
-http://tv.iplex.live:7444/live/1/1/1235.m3u8
+http://172.32.1.88:1935/tvprogram/CHANNEL-9/playlist.m3u8
+#EXTINF:-1,SATV
+http://172.32.1.88:1935/tvprogram/SATV/playlist.m3u8
 #EXTINF:-1,NTV
-http://tv.iplex.live:7444/live/1/1/1230.m3u8
+http://172.32.1.88:1935/tvprogram/N-TV/playlist.m3u8
 #EXTINF:-1,ATN BANGLA
-http://tv.iplex.live:7444/live/1/1/1231.m3u8
+http://172.32.1.88:1935/tvprogram/ATN-BANGLA/playlist.m3u8
 #EXTINF:-1,RTV
-http://tv.iplex.live:7444/live/1/1/1224.m3u8
+http://172.32.1.88:1935/tvprogram/RTV-BANGLA/playlist.m3u8
+#EXTINF:-1,INDEPENDENT TV
+http://172.32.1.88:1935/tvprogram/INDEPENDENT/playlist.m3u8
+#EXTINF:-1,JAMUNA TV
+http://172.32.1.88:1935/tvprogram/JAMUNA-TV/playlist.m3u8
+#EXTINF:-1,SOMOY TV
+http://172.32.1.88:1935/tvprogram/SOMOY-TV/playlist.m3u8
 #EXTINF:-1,EKUSHEY TV
-http://tv.iplex.live:7444/live/1/1/1229.m3u8
-#EXTINF:-1,MY TV HD
-http://tv.iplex.live:7444/live/1/1/1234.m3u8
-#EXTINF:-1,NEXUX TV
-http://tv.iplex.live:7444/live/1/1/1236.m3u8
-#EXTINF:-1,CINEMA TV
-http://tv.iplex.live:7444/live/1/1/1248.m3u8
-#EXTINF:-1,SA TV
-http://tv.iplex.live:7444/live/1/1/1228.m3u8
+http://172.32.1.88:1935/tvprogram/Ekushey-TV/playlist.m3u8
+#EXTINF:-1,CHANNEL 24
+http://172.32.1.88:1935/tvprogram/Channel-24/playlist.m3u8
+#EXTINF:-1,BANGLA VISION
+http://172.32.1.88:1935/tvprogram/BANGLA-VISION/playlist.m3u8
+#EXTINF:-1,MY TV
+http://172.32.1.88:1935/tvprogram/MY-TV/playlist.m3u8
+#EXTINF:-1,SONY 8
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF:-1,ZOOM MUSIC
+http://asdd.cc:7444/live/1/1/2159.m3u8
 #EXTINF:-1,9XM MUSIC
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml_480p/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1,B4U MUSIC
-http://tv.iplex.live:7444/live/1/1/1254.m3u8
-#EXTINF:-1,B4U MOVIES
-http://tv.iplex.live:7444/live/1/1/1255.m3u8
+http://asdd.cc:7444/live/1/1/2147.m3u8
+#EXTINF:-1,MUSIC MASTI
+http://172.32.1.88:1935/tvprogram/MUSTI-MUSIC/playlist.m3u8
 #EXTINF:-1,Music India
 http://208.86.19.21/733.stream/index.m3u8
 #EXTINF:-1,Hungama music
@@ -127,11 +159,6 @@ http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 #EXTINF:-1,WILLOW TV HD
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
-#EXTINF:-1,HUman 1
-http://storage.iplex.live/TV%20Series/Hindi/Human/Human%20S01/Human%20S01%20E01%20WebRip%20720p%20Hindi%20AAC%205.1%20x264%20ESub.mkv
-#EXTINF:-1,parampara
-http://10.16.100.206/ftps3/ftps3d8/TV%20Shows/Hindi/Parampara%20Season%2001%20(2021)%20Completed/Parampara%20S01E01.mp4
 #EXTINF:-1,A SPORTS HD PAK
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-#EXTINF:-1,Human 2
-http://asdd.cc:7444/series/1/1/1782.mp4
+

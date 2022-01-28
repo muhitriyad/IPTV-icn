@@ -161,4 +161,13 @@ http://tv2.ebox.live:8080/live/star-gold-select.m3u8
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1,A SPORTS HD PAK
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
-
+#EXTINF:-1,GAZI TV FLIX
+http://live.flixhub.net/hls/Gazi-TV.m3u8
+#EXTINF:-1,T SPORTS FLIX
+http://live.flixhub.net/hls/t-sports.m3u8
+#EXTINF:-1,DISCOVER HD FLIX
+http://live.flixhub.net/hls/discovery.m3u8
+#EXTINF:-1,NGO HD FLIX
+http://live.flixhub.net/hls/ngohd.m3u8
+#EXTINF:-1,ptv sports
+http://asdd.cc:7444/live/1/1/2062.m3u8

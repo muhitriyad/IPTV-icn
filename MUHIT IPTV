@@ -24,7 +24,7 @@ http://asdd.cc:7444/live/1/1/2148.m3u8
 #EXTINF:-1,T SPORTS HD
 http://asdd.cc:7444/live/1/1/2163.m3u8
 #EXTINF:-1,T SPORTS SUN
-http://172.32.1.88:1935/tvprogram/SONY-ESPN/playlist.m3u8
+http://172.32.1.88:1935/tvprogram/ZEE-STDIO/playlist.m3u8
 #EXTINF:-1,SONY SIX HD
 http://asdd.cc:7444/live/1/1/2053.m3u8
 #EXTINF:-1,TEN 1 HD
@@ -59,14 +59,16 @@ http://asdd.cc:7444/live/1/1/2156.m3u8
 http://asdd.cc:7444/live/1/1/2174.m3u8
 #EXTINF:-1,STAR GOLD HD
 http://asdd.cc:7444/live/1/1/2076.m3u8
-#EXTINF:-1,SONY MAX HD
-http://asdd.cc:7444/live/1/1/2049.m3u8
+#EXTINF:-1,SONY SET MAX HD
+http://172.32.1.88:1935/tvprogram/SETMAX-HD/playlist.m3u8
 #EXTINF:-1,Star gold select one
 http://asdd.cc:7444/live/1/1/2077.m3u8
 #EXTINF:-1,Colors Cineplex hd
 http://asdd.cc:7444/live/1/1/2175.m3u8
 #EXTINF:-1,SONY TV
 http://asdd.cc:7444/live/1/1/2162.m3u8
+#EXTINF:-1,SONY TV
+http://172.32.1.88:1935/tvprogram/SONY-PIXHD/playlist.m3u8
 #EXTINF:-1,UTV MOVIES
 http://asdd.cc:7444/live/1/1/2157.m3u8
 #EXTINF:-1,MN+ HD

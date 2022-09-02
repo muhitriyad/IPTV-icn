@@ -8,7 +8,7 @@ http://asdd.cc:7444/live/1/1/2070.m3u8
 #EXTINF:-1,SONY 8
 http://asdd.cc:7444/live/1/1/2160.m3u8
 #EXTINF:-1,71 tv
-http://asdd.cc:7444/live/1/1/2014.m3u8
+http://172.32.1.88:1935/tvprogram/Ekattor-TV/playlist.m3u8
 #EXTINF:-1,Independent tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1,Channel 24
@@ -41,12 +41,8 @@ http://asdd.cc:7444/live/1/1/2068.m3u8
 http://asdd.cc:7444/live/1/1/2069.m3u8
 #EXTINF:-1,SPORTS LIVE
 http://asdd.cc:7444/live/1/1/2143.m3u8
-#EXTINF:-1,STAR SPORTS 1 HD (BKUP)
-http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1,STAR SPORTS 1 Hindi HD
-http://asdd.cc:7444/live/1/1/2065.m3u8
-#EXTINF:-1,GAZI TV
-http://asdd.cc:7444/live/1/1/2010.m3u8
+#EXTINF:-1,T SPORTS HD (BKUP)
+http://stream.asdd.cc:9191/star-sports-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JALSHA MOVIES HD
 http://asdd.cc:7444/live/1/1/2075.m3u8
 #EXTINF:-1,ZEE BANGLA CINEMA HD
@@ -91,12 +87,14 @@ http://asdd.cc:7444/live/1/1/2071.m3u8
 http://asdd.cc:7444/live/1/1/2004.m3u8
 #EXTINF:-1,NICK HD
 http://asdd.cc:7444/live/1/1/2179.m3u8
-#EXTINF:-1,DISNEY
-http://tv.iplex.live:7444/live/1/1/1281.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://stream.asdd.cc:9191/discovery/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DISCOVERY HD
 http://asdd.cc:7444/live/1/1/2079.m3u8
 #EXTINF:-1,NAT GEO HD
 http://asdd.cc:7444/live/1/1/2171.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://stream.asdd.cc:9191/Nat-Geo-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1,MAASRANGA TV
 http://172.32.1.88:1935/tvprogram/MAASRANGA-TV/playlist.m3u8
 #EXTINF:-1,EKATTOR TV
@@ -171,7 +169,7 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 http://live.flixhub.net/hls/t-sports.m3u8
 #EXTINF:-1,DISCOVER HD FLIX
 http://live.flixhub.net/hls/discovery.m3u8
-#EXTINF:-1,NGO HD FLIX
-http://live.flixhub.net/hls/ngohd.m3u8
+#EXTINF:-1,STAR SPORTS ASDD
+http://stream.asdd.cc:9191/star-sports-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ptv sports
 http://asdd.cc:7444/live/1/1/2062.m3u8
